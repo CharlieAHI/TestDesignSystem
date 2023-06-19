@@ -25,13 +25,15 @@ class AppRadii {
 
   static const radiusConfidenceLevel = BorderRadius.all(Radius.circular(100));
 
-  static const radiusExpandableHeader = BorderRadius.all(Radius.circular(4));
+  static const radiusCartridge = BorderRadius.all(Radius.circular(4));
 
   static const radiusFilterGraph = BorderRadius.all(Radius.circular(30));
 
   static const radiusResultsCard = BorderRadius.all(Radius.circular(8));
 
   static const radiusScanResults = BorderRadius.all(Radius.circular(4));
+
+  static const radiusButtonNavigation = BorderRadius.all(Radius.circular(100));
 
   AppRadii._();
 }

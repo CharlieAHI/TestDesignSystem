@@ -41,7 +41,7 @@ class AppBorders {
     width: 1,
   ));
 
-  static const borderExpandableHeader = Border.fromBorderSide(BorderSide(
+  static const borderCartridge = Border.fromBorderSide(BorderSide(
     color: Color(0x1f000000),
     width: 1,
   ));
